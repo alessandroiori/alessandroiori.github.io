@@ -1,3 +1,3 @@
-# alessandroiori.github.com
+# alessandroiori.github.io
 
 - [IOTA Memo](https://alessandroiori.github.io/iota)
